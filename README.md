@@ -8,14 +8,7 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frankbahirwa&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frankbahirwa&layout=compact&theme=dark)
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frankbahirwa&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=frankbahirwa&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frankbahirwa&layout=compact&theme=dark)
 
 ---
 
@@ -54,25 +47,6 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-2EC1AC?style=for-the-badge&logo=thunderclient&logoColor=white)
-
----
-
-## 📊 Skill Levels
-
-**Backend & Systems**
-- Node.js / Express ██████████  Advanced
-- Python / Django  █████████░  Advanced
-- Microservices  █████████░  Advanced
-- Docker & DevOps  ████████░░  Intermediate–Advanced
-
-**Frontend**
-- React / Next.js  ████████░░  Intermediate
-- Vue.js     ███████░░░  Intermediate
-- Flutter     ███████░░░  Intermediate
-
-**Data & ML**
-- Machine Learning ██████░░░░  Foundations
-- Pandas / NumPy  ███████░░░  Intermediate
 
 ---
 
